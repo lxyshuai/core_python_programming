@@ -1,0 +1,2 @@
+Fatal error : invalid input!
+Fatal error : invalid input!
